@@ -4,7 +4,7 @@
     "category" : "client",
     "description" : "Fixes debilitate icons on bosses.",
     "author" : "132ads",
-    "servers" : ["https://raw.githubusercontent.com/yoshinoa/shio-suite/master/"],
-    "supportUrl" : "https://github.com/yoshinoa/shio-suite/issues",
+    "servers" : ["https://raw.githubusercontent.com/yoshinoa/debilfix/master/"],
+    "supportUrl" : "https://github.com/yoshinoa/debilfix/issues",
     "version" : "1.0"
 }
