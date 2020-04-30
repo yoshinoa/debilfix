@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate" : false,
+    "name" : "debilfix",
+    "category" : "client",
+    "description" : "Fixes debilitate icons on bosses.",
+    "author" : "132ads",
+    "servers" : ["https://raw.githubusercontent.com/yoshinoa/shio-suite/master/"],
+    "supportUrl" : "https://github.com/yoshinoa/shio-suite/issues",
+    "version" : "1.0"
+}
